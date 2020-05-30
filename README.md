@@ -1,2 +1,2 @@
 # economizor
- this project will help users save some money achieving daily goals
+ This project will help users save some money arriving daily goals.
